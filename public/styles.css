@@ -761,10 +761,6 @@ body {
         display: none;
     }
     
-    .mobile-menu-toggle {
-        display: flex;
-    }
-    
     .hero-content {
         grid-template-columns: 1fr;
         gap: 40px;
