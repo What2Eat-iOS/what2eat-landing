@@ -103,15 +103,6 @@ body {
     transition: all 0.3s ease;
 }
 
-.mobile-download-button {
-    display: none;
-}
-
-.mobile-download-button img {
-    height: 30px;
-    width: auto;
-}
-
 /* Hero Section */
 .hero {
     padding: 100px 0 80px;
@@ -768,10 +759,6 @@ body {
 @media (max-width: 768px) {
     .nav-links {
         display: none;
-    }
-    
-    .mobile-download-button {
-        display: block;
     }
     
     .hero-content {
