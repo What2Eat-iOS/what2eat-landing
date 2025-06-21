@@ -1,0 +1,35 @@
+{
+    "name": "What2Eat - Smart Food Scanner App",
+    "short_name": "What2Eat",
+    "description": "Smart food scanner app that analyzes nutrition labels, provides health scores, and helps you make informed food choices with allergen detection and personalized nutrition insights.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#f56900",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "Assets/What2Eat_logo.PNG",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "Assets/What2Eat_logo.PNG",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["health", "food", "nutrition", "lifestyle"],
+    "lang": "en",
+    "dir": "ltr",
+    "scope": "/",
+    "prefer_related_applications": false,
+    "related_applications": [
+        {
+            "platform": "webapp",
+            "url": "https://what2eat.live"
+        }
+    ]
+} 
