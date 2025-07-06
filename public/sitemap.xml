@@ -7,19 +7,19 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://what2eat.live/download.html</loc>
+        <loc>https://what2eat.live/download</loc>
         <lastmod>2025-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://what2eat.live/privacy-policy.html</loc>
+        <loc>https://what2eat.live/privacy-policy</loc>
         <lastmod>2025-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>https://what2eat.live/terms-and-conditions.html</loc>
+        <loc>https://what2eat.live/terms-and-conditions</loc>
         <lastmod>2025-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
